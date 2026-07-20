@@ -1,0 +1,8 @@
+
+Customer Name: gbfbfer
+---- Bill ----
+Hockey Stick x1 = Rs 800
+Badminton x2 = Rs 800
+Skateboard x1 = Rs 1300
+Total = Rs 2900
+--------------------
