@@ -6,3 +6,14 @@ Badminton x2 = Rs 800
 Skateboard x1 = Rs 1300
 Total = Rs 2900
 --------------------
+
+Customer Name: dhr
+---- Bill ----
+Badminton x1 = Rs 400
+Volleyball x1 = Rs 550
+Skateboard x1 = Rs 1300
+Baseball Bat x2 = Rs 2000
+Tennis Racket x2 = Rs 2400
+Basketball x1 = Rs 600
+Total = Rs 7250
+--------------------
